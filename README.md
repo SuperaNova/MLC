@@ -3,7 +3,7 @@
 
 something our info or something
 
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/your-username/project-name/)
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SuperaNova/MLC/)
 
 ---
 
