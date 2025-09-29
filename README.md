@@ -81,6 +81,22 @@ pip freeze > requirements.txt
 
 ---
 
+## Dataset
+
+This project uses the [Bitcoin Historical Data](https://www.kaggle.com/datasets/mczielinski/bitcoin-historical-data).
+
+⚠️ The dataset is not included in GitHub (too large).
+To use it:
+
+1. Download the dataset from Kaggle manually and place it in the `data/` folder.
+   or
+2. Run the download script:
+```python
+   python scripts/data_setup.py
+```
+
+---
+
 # Notes
 
 * Keep datasets in `data/` (ignored by git).
